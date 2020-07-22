@@ -1,6 +1,6 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import AppHolder from './components/AppHolder';
+import Navbar from './components/Navbar.js';
+import AppHolder from './components/AppHolder.js';
 import './App.css';
 import { add } from 'date-fns';
 
